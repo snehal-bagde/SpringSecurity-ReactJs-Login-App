@@ -5,7 +5,7 @@ Login-Application
 Steps to Setup the Spring Boot Back end app (FullStack-Login)
 
 1. Clone the application
-      git clone https://github.com/snehal-bagde/Polling-Application.git cd polls
+      git clone https://github.com/snehal-bagde/SpringSecurity-ReactJs-Login-App.git cd FullStack-Login
 
 2. Create MySQL database
 
